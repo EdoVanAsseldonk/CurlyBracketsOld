@@ -11,7 +11,7 @@ Jan 2018 - current
 **Lead software developer and architect for the BSS of T-Mobile Thuis.**
 
 ## Veliq / Universit
-Sep 2014 - DEC 2017
+Sep 2014 - Dec 2017
 
 **Lead software developer and architect for the E-commerce cloud platform**
 
