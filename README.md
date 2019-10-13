@@ -1,1 +1,2 @@
-# Welcome to Pages of Edo
+# Edo van Asseldonk
+Lead .NET Developer en Software Architect
