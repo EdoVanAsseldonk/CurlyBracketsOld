@@ -29,6 +29,6 @@ Sep 1999 - Dec 2011
 # Contact
 edovanasseldonk@outlook.com
 
-+31(0)653578179
+Tel: +31(0)653578179
 
 Rotterdam
