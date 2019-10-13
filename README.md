@@ -11,11 +11,19 @@ Jan 2018 - current
 **Lead software developer and architect for the BSS of T-Mobile Thuis.**
 
 ## Veliq / Universit
-Sep 2014 - Dec 2017
+Jun 2014 - Dec 2017
 
-**Lead software developer and architect for the E-commerce cloud platform**
+**Lead software developer and architect for E-commerce cloud platform**
+
+## Ministerie van Binnenlandse Zaken
+Jan 2012 - May 2014
+
+**Lead software developer and architect for systemsn related to publicating laws and regulations**
+
 
 ## Other
+
+**C# developer**
 
 # Contact
 edovanasseldonk@outlook.com
