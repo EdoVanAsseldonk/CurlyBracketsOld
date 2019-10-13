@@ -1,1 +1,1 @@
-# edo2
+# Welcome to Pages of Edo
