@@ -22,10 +22,13 @@ Jan 2012 - May 2014
 
 
 ## Other
+Sep 1999 - Dec 2011
 
 **C# developer**
 
 # Contact
 edovanasseldonk@outlook.com
+
 +31(0)653578179
+
 Rotterdam
