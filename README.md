@@ -6,7 +6,11 @@ I'm specialized in backend development. I mainly focus on building great api's a
 
 # Experience
 ## T-Mobile
-### Lead software developer and architect for the BSS of T-Mobile Thuis.
+Jan 2018 - current
+**Lead software developer and architect for the BSS of T-Mobile Thuis.**
 
 ## Veliq / Universit
-### Lead software developer and architect for the E-commerce cloud platform
+Sep 2014 - DEC 2017
+**Lead software developer and architect for the E-commerce cloud platform**
+
+
