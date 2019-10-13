@@ -1,4 +1,4 @@
-# Lead .NET Developer and Software Architect
+# Lead .NET Developer & Software Architect
 
 I'm Edo van Asseldonk. I'm an freelance software developer and software architect. I have 20+ years of experience in delivering successful software projects for various types of companies.
 I'm specialized in backend development. I mainly focus on building great api's and integrations. I'm highly skilled in SQL and messaging technologies.
