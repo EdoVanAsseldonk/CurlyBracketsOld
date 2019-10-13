@@ -15,4 +15,9 @@ Sep 2014 - Dec 2017
 
 **Lead software developer and architect for the E-commerce cloud platform**
 
+## Other
 
+# Contact
+edovanasseldonk@outlook.com
++31(0)653578179
+Rotterdam
